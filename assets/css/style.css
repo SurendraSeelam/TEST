@@ -1,0 +1,65 @@
+.card {
+  width: 300px;
+  background-color: rgb(35, 185, 255);
+  margin: auto;
+  padding: 20px;
+}
+.input {
+  display: flex;
+  justify-content: space-between;
+}
+.userinput {
+  border: 1px solid #434141;
+  outline: none;
+  border-radius: 5px;
+  padding: 10px;
+  width: 200px;
+}
+.btn-div {
+  background-color: rgb(22, 22, 249);
+  outline: none;
+  color: white;
+  border: none;
+  width: 50px;
+  border-radius: 5px;
+}
+.ri-edit-box-fill {
+  color: white;
+  font-size: 20px;
+}
+
+.ri-delete-bin-6-fill {
+  color: white;
+  font-size: 20px;
+}
+
+.inputouter {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 30px;
+  background-color: #f2f2f2;
+  padding: 5px;
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px gray;
+}
+.editbtn {
+  background-color: rgb(57, 82, 159);
+  border-radius: 2px;
+  border: none;
+  outline: none;
+  padding: 5px;
+  color: white;
+}
+.deletebtn {
+  background-color: red;
+  border-radius: 2px;
+  border: none;
+}
+.inputouter input {
+  font-size: 10px;
+}
+.btndiv {
+  display: flex;
+  gap: 10px;
+}
